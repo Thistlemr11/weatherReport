@@ -1,0 +1,14 @@
+#loginPage{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+    min-height: 100vh;
+    justify-content: center;
+}
+
+.loginPage_wrapper{
+    display: grid;
+    grid-row-gap: 20px;
+}
